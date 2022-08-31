@@ -3,7 +3,7 @@
 ![imagen](https://user-images.githubusercontent.com/111943025/187802518-c2ae1f1f-7a9b-496a-953f-cc4b45c4ee33.png)
 + Cambios realizados:
  Fondo diferente.
-![imagen](https://user-images.githubusercontent.com/111943025/187802630-dc81c662-1115-4176-a197-887bdf9b392c.png)
+![imagen](https://user-images.githubusercontent.com/111943025/187802630-dc81c662-1115-4176-a197-887bdf9b392c.png) \
  Plataformas con diseño diferente.
 ![imagen](https://user-images.githubusercontent.com/111943025/187802692-322a6a0e-a6c3-4427-adfc-645ba823ee48.png)
  Plataforma que se mueve verticalmente.
