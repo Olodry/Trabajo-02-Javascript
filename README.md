@@ -14,4 +14,4 @@
 ![imagen](https://user-images.githubusercontent.com/111943025/187802856-2fb2e5ed-7d57-4d8a-a5a3-389a795c1682.png) \
  6 - Efecto de sonido al ser golpeado por la bomba. \
 ![imagen](https://user-images.githubusercontent.com/111943025/187802929-bede00b9-0c2a-49ad-b3da-d421d7755bc9.png) \
- 7 - Al iniciar el juego ya habra una bomba spawneada. \
+ 7 - Al iniciar el juego ya habra una bomba spawneada.
