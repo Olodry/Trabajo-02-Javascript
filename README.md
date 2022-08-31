@@ -1,7 +1,7 @@
 # Trabajo 02 Javascript - Programación para Internet 2022B
 # Oswaldo Luna León
 ![imagen](https://user-images.githubusercontent.com/111943025/187802518-c2ae1f1f-7a9b-496a-953f-cc4b45c4ee33.png)
-> Cambios realizados:
++ Cambios realizados:
 1 Fondo diferente.
 ![imagen](https://user-images.githubusercontent.com/111943025/187802630-dc81c662-1115-4176-a197-887bdf9b392c.png)
 2 Plataformas con diseño diferente.
